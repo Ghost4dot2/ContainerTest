@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sH2l3+cIE/kCVNdmM56aisqNg1VVMI6C6Uso5QJT03aJAMyf4bCjqs8olbrIIzwr+vPtnCVW294P6iVm0olTBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Citadel\\source\\repos\\Echo\\Echo\\DBHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Citadel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Citadel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
