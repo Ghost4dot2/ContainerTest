@@ -1,5 +1,4 @@
-DatabaseObjects/bin/*
-Echo/bin/*
+*/bin/*
 */obj/*
 *.suo
 *.sdj
@@ -7,3 +6,4 @@ Echo/bin/*
 *.obj
 *.dll
 *.exe
+.vs

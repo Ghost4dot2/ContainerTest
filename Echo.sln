@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBHandler", "Echo\DBHandler
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseObjects", "DatabaseObjects\DatabaseObjects.csproj", "{FEB22B9E-3ADF-41DD-8978-12891A6583F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBController", "DBController\DBController.csproj", "{FB213483-06AE-40F7-A748-7F6CDD6D9180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FEB22B9E-3ADF-41DD-8978-12891A6583F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB22B9E-3ADF-41DD-8978-12891A6583F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEB22B9E-3ADF-41DD-8978-12891A6583F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB213483-06AE-40F7-A748-7F6CDD6D9180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB213483-06AE-40F7-A748-7F6CDD6D9180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB213483-06AE-40F7-A748-7F6CDD6D9180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB213483-06AE-40F7-A748-7F6CDD6D9180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
