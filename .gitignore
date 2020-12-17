@@ -1,2 +1,9 @@
 DatabaseObjects/bin/*
 Echo/bin/*
+*/obj/*
+*.suo
+*.sdj
+*.user
+*.obj
+*.dll
+*.exe

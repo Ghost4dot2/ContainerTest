@@ -1,9 +1,0 @@
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csprojAssemblyReference.cache
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfoInputs.cache
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfo.cs
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csproj.CoreCompileInputs.cache
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.deps.json
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.dll
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.pdb
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.dll
-C:\Users\Citadel\source\repos\Echo\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.pdb
